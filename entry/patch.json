@@ -1,0 +1,11 @@
+{
+  "app": {
+    "bundleName": "org.xbgroup.clashbox",
+    "patchVersionCode": 2000001,
+    "versionCode": 1006070
+  },
+  "module": {
+    "name": "entry",
+    "type": "hotreload"
+  }
+}
